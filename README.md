@@ -1,6 +1,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=jerrycda&color=2685BF)
 
-## Hi there 👋🏻,
+<h1 align="center">Hi there, I'm Jerry Cañate De Arco <img src="./src/wave.gif" width="30px"></h1>
 
 I am a Colombian programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
 
