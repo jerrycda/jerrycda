@@ -1,8 +1,15 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=jerrycda&color=2685BF)
 
-<h1 align="center">Hi there, I'm Jerry Cañate De Arco <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Jerry Cañate De Arco <👋 width="30px"></h1>
 
-I am a Colombian programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
+### 💻 Data Scientist
+
+- 🔭 I’m currently working on a Afinia grupo EPM
+- 🌱 I’m currently learning more about Data science
+- 👯 I’m looking to collaborate webinar,meetup...
+- 💬 Ask me about technology
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
 ## 📬 Get in touch
 
