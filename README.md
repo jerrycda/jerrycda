@@ -8,7 +8,7 @@ I am a Colombian programming enthusiast, with the spirit of sharing knowledge an
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/jerrycda/)
+- LinkedIn: [linkedin.com/in/jerrycda](https://www.linkedin.com/in/jerrycda/)
 
 
 ## &#x1f4c8; My GitHub Stats
