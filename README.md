@@ -1,6 +1,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=jerrycda&color=2685BF)
 
-<h1 align="center">Hi there, I'm Jerry Cañate De Arco <👋 width="30px"></h1>
+<h1 align="center">Hi there, I'm Jerry Cañate De Arco 👋 </h1>
 
 ### 💻 Data Scientist
 
